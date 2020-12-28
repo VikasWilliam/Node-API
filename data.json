@@ -1,0 +1,34 @@
+[
+    {
+        "name": "John",
+        "team": "React",
+        "Description": "It is a javascript Libriary"
+    },
+    {
+        "name": "Peter",
+        "team": "Newgen Javascript",
+        "Description": "It follows ECMAscript6 syntax"
+    },
+    {
+        "name": "Paul",
+        "team": "C#",
+        "Description": "It is a backend programmig language developed by Microsoft"
+    },
+    {
+        "name": "James",
+        "team": "node",
+        "Description": "It is a backend programming language and suprisingly a backend language"
+    },
+
+    {
+        "name": "Philips",
+        "team": "HTML",
+        "Description": "Frontend language which a browser can intrepret and transfer using HTTP protocol"
+    },
+    {
+        "name": "Matthew",
+        "team": "CSS",
+        "Description": "this is a styling language to add features to you and animation to yout HTML."
+    }
+
+]
