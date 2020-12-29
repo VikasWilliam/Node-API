@@ -10,7 +10,7 @@ const { response } = require("express");
     }))
 
 
-    fetch('https://apidemonodejs.herokuapp.com',{mode: "no-cors"})
+    fetch('https://apidemonodejs.herokuapp.com/skills')
     .then((response)=>{
       return response.json();
     })

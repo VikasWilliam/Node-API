@@ -1,0 +1,9 @@
+to add CORS in your node API install:
+npm install --save cors
+
+to push code on heroku git;
+git push heroku master
+
+
+in google chrom new version CORS is not enabled:
+Add a plugin :Allow CORS: Access-Control-Allow-Origin
