@@ -7,3 +7,13 @@ git push heroku master
 
 in google chrom new version CORS is not enabled:
 Add a plugin :Allow CORS: Access-Control-Allow-Origin
+
+
+
+steps do deploy API on Heroku:
+1)create a file in project with name procfile
+2)navigate to folder in cmd and type:Login Heroku
+3)create name - heroku create apidemonodejs
+git add .
+git commit -m "a"
+git push heroku master
