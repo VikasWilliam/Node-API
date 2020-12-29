@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/VikasWilliam/Node-API#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
-  "engines":{
+  "engines": {
     "node": "12.14.1 "
   }
 }
